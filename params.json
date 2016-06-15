@@ -1,6 +1,6 @@
 {
   "name": "True-joystick-",
   "tagline": "A simple joystick done with deep research",
-  "body": "### True Joystick\r\nA Virtual Joystick for Unity3d, with Auto Hiding Joystick . Dynamic Joystick position .\r\nIt is inspired by a Gamesutra article and a Youtube Video [Watch here](https://www.youtube.com/watch?v=-sEJ4Lo0cm8).\r\n\r\n\r\n",
+  "body": "### True Joystick\r\nA Virtual Joystick for Unity3d, with Auto Hiding Joystick . Dynamic Joystick position .\r\nIt is inspired by a Gamesutra article [here](http://www.gamasutra.com/view/feature/6323/a_guide_to_ios_twin_stick_shooter_.php?print=1) and a Youtube Video [Watch here](https://www.youtube.com/watch?v=-sEJ4Lo0cm8).\r\n\r\nNote: The project uses CrossPlatformInput from Unity Standard Assets. Don't forget to import that its free in Asset store [Download](https://www.assetstore.unity3d.com/en/#!/content/32351)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
