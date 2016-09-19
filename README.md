@@ -8,7 +8,7 @@ please share those code with us.
 
 Thanks.
 
-Note: This Script need Standard Assets(download: https://www.assetstore.unity3d.com/en/#!/content/32351) 
+Note: This Project/Package need Standard Assets(download: https://www.assetstore.unity3d.com/en/#!/content/32351) 
 from Unity for CrossPlatform Input.
 
 
